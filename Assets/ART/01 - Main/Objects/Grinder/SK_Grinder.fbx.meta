@@ -3,7 +3,12 @@ guid: 84637b155062903438f266fea53cfb23
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Grinder_01a
+    second: {fileID: 2100000, guid: a8e5961c1a53c14449ca5cdd6189ba12, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
