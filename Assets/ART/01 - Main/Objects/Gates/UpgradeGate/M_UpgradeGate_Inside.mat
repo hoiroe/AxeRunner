@@ -7,8 +7,9 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: M_MultiplierGate_Columns
-  m_Shader: {fileID: 4800000, guid: 933532a4fcc9baf4fa0491de14d08ed7, type: 3}
+  m_Name: M_UpgradeGate_Inside
+  m_Shader: {fileID: -6465566751694194690, guid: b9d12dba81e55274a9c3219f3765879d,
+    type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -17,8 +18,7 @@ Material:
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
   m_CustomRenderQueue: -1
-  stringTagMap:
-    RenderType: Opaque
+  stringTagMap: {}
   disabledShaderPasses: []
   m_LockedProperties: 
   m_SavedProperties:
@@ -102,6 +102,7 @@ Material:
     - _Metallic: 0
     - _OcclusionStrength: 1
     - _Parallax: 0.005
+    - _QueueControl: 0
     - _QueueOffset: 0
     - _ReceiveShadows: 1
     - _Smoothness: 0
@@ -113,8 +114,10 @@ Material:
     - _WorkflowMode: 1
     - _ZWrite: 1
     m_Colors:
-    - _BaseColor: {r: 0.8094419, g: 0.8207547, b: 0.53039336, a: 1}
-    - _Color: {r: 0.8094419, g: 0.8207547, b: 0.53039336, a: 1}
+    - _BaseColor: {r: 0.34109113, g: 0.59965813, b: 0.990566, a: 1}
+    - _Color: {r: 0.3410911, g: 0.5996581, b: 0.99056596, a: 1}
+    - _Color_01: {r: 0.20932718, g: 0.5423203, b: 0.9056604, a: 0}
+    - _Color_02: {r: 0.6662958, g: 0.8773585, b: 0.74867886, a: 0}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
   m_BuildTextureStacks: []
