@@ -20,7 +20,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: M_Fog
+  m_Name: M_Fog_01b
   m_Shader: {fileID: -6465566751694194690, guid: c304508fd98511d4db9a7eaa93939139,
     type: 3}
   m_Parent: {fileID: 0}
@@ -103,14 +103,14 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - Vector1_1: 0.5
-    - Vector1_27d3db37bf384e54895d184bbd10302e: 1
+    - Vector1_1: 1
+    - Vector1_27d3db37bf384e54895d184bbd10302e: 2
     - Vector1_2ab69632e7e344059b753ef44cb07949: 1
     - Vector1_3999fd86afce4953b0a2da10072ea38f: 30
     - Vector1_6de6df0c0dec4130bb64f8490980e40c: -0.1
     - Vector1_aee4f497f06e407b953691f6b5a18f7a: 1
     - Vector1_e5fe713acc584284a7e5f6ac71e53375: 5
-    - Vector1_ec1d119f59454e02b6d1450c29de6548: 30
+    - Vector1_ec1d119f59454e02b6d1450c29de6548: 90
     - _AlphaClip: 0
     - _Blend: 0
     - _BumpScale: 1
@@ -141,7 +141,7 @@ Material:
     m_Colors:
     - Color_c24d88954dcd43049c7360523f26ea7d: {r: 0.3252047, g: 0.7924528, b: 0.7740572,
         a: 0}
-    - Color_c24d88954dcd43049c7360523f26ea7d_1: {r: 0.1511659, g: 0.745283, b: 0.7289615,
+    - Color_c24d88954dcd43049c7360523f26ea7d_1: {r: 0.735849, g: 0.079832695, b: 0.45038843,
         a: 0}
     - Vector2_954d3037cbfe48ecb9b3b0c1b8b392cd: {r: 1, g: 1, b: 0, a: 0}
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
